@@ -1,0 +1,9 @@
+{
+	"name": "ADFTestEnvironmentDemo",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8a841a44-6a98-48d3-88aa-76d9ad659b7b",
+		"tenantId": "e2f63d6a-836a-47b4-a0cd-07afdd51f41f"
+	}
+}
